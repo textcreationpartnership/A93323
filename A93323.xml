@@ -1,0 +1,1340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two covenants from Sinai, and Sion, drawn up catechetically, and plainly. Together with a briefe appendix, directing about the use of the new covenant in a practicall way. Published for the benefit especially of the inhabitants of Eastham, Essex. / By Samuel Slater.</title>
+            <author>Slater, Samuel, d. 1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93323</idno>
+            <idno type="STC">Wing S3978</idno>
+            <idno type="STC">Thomason E1185_1*</idno>
+            <idno type="STC">ESTC R204871</idno>
+            <idno type="EEBO-CITATION">99864327</idno>
+            <idno type="PROQUEST">99864327</idno>
+            <idno type="VID">116554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116554)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1185[1*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two covenants from Sinai, and Sion, drawn up catechetically, and plainly. Together with a briefe appendix, directing about the use of the new covenant in a practicall way. Published for the benefit especially of the inhabitants of Eastham, Essex. / By Samuel Slater.</title>
+                  <author>Slater, Samuel, d. 1704.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for Henry Overton in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B.</note>
+                  <note>The first leaf bears a permission to print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenant theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116554:1" rendition="simple:additions"/>
+            <p>THE TWO
+COVENANTS
+From <hi>Sinai,</hi> and <hi>Sion,</hi>
+drawn up Catechetically,
+and plainly.</p>
+            <p>Together with a briefe Appen<g ref="char:EOLhyphen"/>dix,
+directing about the uſe of the
+<hi>New Covenant in a practicall way.</hi>
+            </p>
+            <p>Publiſhed for the benefit eſpecially
+of the Inhabitants of <hi>Eaſtham,</hi> Eſſex.</p>
+            <p>BY <hi>SAMUEL SLATER.</hi>
+            </p>
+            <bibl>Hebrews 12. 18, 19, 22, 23.</bibl>
+            <q>Yee are not come unto the Mount that might be tou<g ref="char:EOLhyphen"/>ched,
+and that burned with fire, nor unto blackneſſe,
+and darkneſſe, and tempeſt, and the ſound of a Trum<g ref="char:EOLhyphen"/>pet,
+&amp;c. But yee are come unto Mount Sion, and to
+the Citie of the living God, the heavenly Jeruſalem,
+and to an innumerable company of Angels, to the ge<g ref="char:EOLhyphen"/>nerall
+aſſembly, and Church of the firſt borne, which
+are written in heaven, and to God the Judge of all,
+and to the Spirits of juſt men made perfect, and to
+Jeſus the Mediator of the New Covenant.</q>
+            <p>
+               <hi>LONDON,</hi>
+Printed by <hi>M. S.</hi> for <hi>Henry Overton</hi>
+in <hi>Popes head</hi> Alley, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div n="Sinai and Sion" type="table_of_covenants">
+            <pb facs="tcp:116554:2"/>
+            <pb facs="tcp:116554:2"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Mount Sinai</cell>
+                     <cell role="label">Mount Sion</cell>
+                  </row>
+                  <row>
+                     <cell>Was ſcituate in the Wilder<g ref="char:EOLhyphen"/>neſſe,
+where the <hi>Iſraelites</hi>
+were ſojourners, <hi>Exod.</hi> 19. 1.</cell>
+                     <cell>Was ſcituate in <hi>Canaan,</hi>
+where the <hi>Iſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aelites</hi> were in<g ref="char:EOLhyphen"/>heritors,
+and at <hi>J<gap reason="illegible" resp="#TECH" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ruſalem,</hi>
+where God placed his Name,
+2 <hi>Sam.</hi> 7.</cell>
+                  </row>
+                  <row>
+                     <cell>Here <hi>Moſes</hi> ſtood as a Typi<g ref="char:EOLhyphen"/>call
+Mediator, <hi>Exod.</hi> 24. 12.</cell>
+                     <cell>He<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Chriſt ſtands as the Me<g ref="char:EOLhyphen"/>diator
+of the New Teſtament,
+<hi>Rev.</hi> 14 1. <hi>Heb</hi> 12.</cell>
+                  </row>
+                  <row>
+                     <cell>Here a fiery Law was pub<g ref="char:EOLhyphen"/>liſhed,
+and given in charge,
+<hi>Deut.</hi> 33. 2.</cell>
+                     <cell>Here the joyfull ſound of the
+Goſpel is heard, <hi>Pſal. 89. I<g ref="char:EOLhyphen"/>ſa.</hi>
+40. 9.</cell>
+                  </row>
+                  <row>
+                     <cell>Here the Law was written
+in Tables of ſtone by the finger
+of God, <hi>Exod.</hi> 31. 18.</cell>
+                     <cell>Here the Law is written in
+the fleſhly Tables of the heart,
+by the Spirit of the living God,
+2 <hi>Cor.</hi> 3 3.</cell>
+                  </row>
+                  <row>
+                     <cell>Here was blackneſſe, and
+darkneſſe, and Tempeſt, <hi>Heb.</hi>
+12 18.</cell>
+                     <cell>Here is brightneſſe, and per<g ref="char:EOLhyphen"/>fect
+on of beautie, <hi>Pſal.</hi> 50. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>Here matters were mannaged
+viſibly, and to the outward
+ſences, <hi>Exod.</hi> 10. 18.</cell>
+                     <cell>Here m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tters are mannaged
+after a more ſpirituall manner,
+2 <hi>Cor.</hi> 3. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>Here <hi>Moſes,</hi> and the people
+did exceed<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngly feare, and quake,
+<hi>Exod. 20. Heb.</hi> 12. 21.</cell>
+                     <cell>Here m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n have boldneſſe, and
+confidence towards God, <hi>Heb.</hi>
+10. 19.</cell>
+                  </row>
+                  <row>
+                     <cell>Here was a gendring to Bon<g ref="char:EOLhyphen"/>dag<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,
+<hi>Gal.</hi> 4. 24.</cell>
+                     <cell>Here men are called to a glo<g ref="char:EOLhyphen"/>rious
+libertie, <hi>Gal.</hi> 5. 13.</cell>
+                  </row>
+                  <row>
+                     <cell>Here was the miniſtration of
+condemnation, 2 <hi>Cor.</hi> 3.</cell>
+                     <cell>H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re is the miniſtration of
+r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ghteouſneſſe, and life, 2 <hi>Cor.</hi> 3.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <bibl>PSAL. 87. 5.</bibl>
+               <q>Of Sion it ſhall be ſaid, this, and that man was borne
+in her, and the Higheſt himſelfe ſhall eſtabliſh her.</q>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:116554:3"/>
+            <p>
+               <seg rend="decorInit">I</seg>T hath pleaſed the Father of lights,
+out of tender compaſſion to the fore<g ref="char:EOLhyphen"/>lorne
+poſteritie of <hi>Adam,</hi> over which
+the Prince of darkneſſe hath drawne
+a black vaile of ignorance, to ingage
+the promiſe for the deſtroying of that Vaile, and re<g ref="char:EOLhyphen"/>moving
+the face of the covering ſpread over all
+Nations, <hi>Iſa.</hi> 25. 7. That ſo Men may with open
+face, behold, as in a Glaſſe, the glory of God, and
+be transformed into his Image from glory to glo<g ref="char:EOLhyphen"/>ry,
+2 <hi>Cor.</hi> 3. 18. Which promiſe as it is to be ap<g ref="char:EOLhyphen"/>plyed
+by Faith, and ſued out by prayer, ſo it is to
+be ſerved, in order to its accompliſhment by the
+faithfull end<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avours of all Chriſts ſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvants in the
+Miniſtery, that ſo poore ſoules that have lived
+long under ſhadows, and walked in darkneſſe,
+may be brought into marveilous light, and not
+goe to bed in the darke, and ſo lie downe in eter<g ref="char:EOLhyphen"/>nall
+ſorrow. For which cauſe, the Author hath
+been mooved to preſent theſe few pages to pub<g ref="char:EOLhyphen"/>lique
+view, in hope, that ſome may make advan<g ref="char:EOLhyphen"/>tage
+of them, for the nnderſtanding of the my<g ref="char:EOLhyphen"/>ſteries
+of God. Which if any ſhall, he hath his
+aime, who counts it one of the greateſt comforts
+of his life, to be any way uſefull to the Church
+of God, and Children of the Covenant.</p>
+         </div>
+         <div type="Scriptural_quotations">
+            <pb facs="tcp:116554:3"/>
+            <head>Some ſelect Scriptures propund<g ref="char:EOLhyphen"/>ed,
+to promote an endeavour in
+people after Knowledge.</head>
+            <q>
+               <seg rend="decorInit">I</seg> Deſired knowledge of God more than
+burnt offerings, <bibl>
+                  <hi>Hoſea</hi> 6. 6.</bibl>
+            </q>
+            <q>The Lord hath a controverſie with the Inha<g ref="char:EOLhyphen"/>bitants
+of the Land, becauſe there is no know<g ref="char:EOLhyphen"/>ledge
+of God, <bibl>
+                  <hi>Hoſea</hi> 4. 1.</bibl>
+            </q>
+            <q>Some have not the knowledge of God, I ſpeake
+this to your ſhame, <bibl>1 <hi>Cor.</hi> 15.</bibl>
+            </q>
+            <q>My people are deſtroyed for lacke of know<g ref="char:EOLhyphen"/>ledge,
+<bibl>
+                  <hi>Hoſea</hi> 4. 6.</bibl>
+            </q>
+            <q>How long yee ſimple ones will yee love ſim<g ref="char:EOLhyphen"/>plicitie,
+and fooles hate knowledge, <bibl>
+                  <hi>Pro.</hi> 1. 22.</bibl>
+            </q>
+            <q>When Wiſdome entreth into thy heart, and
+knowledge is pleaſant to thy ſoule, diſcretion ſhall
+preſerve thee, underſtanding ſhall keepe thee, <bibl>
+                  <hi>Pro.</hi>
+2. 16.</bibl>
+            </q>
+            <q>Therefore be yee not unwiſe, but underſtanding
+what the will of the Lord is, <bibl>
+                  <hi>Epheſ.</hi> 5. 17.</bibl>
+            </q>
+         </div>
+         <div type="propositions">
+            <pb facs="tcp:116554:4"/>
+            <head>Some generall Propoſitions, com<g ref="char:EOLhyphen"/>prehending
+the ſumme of that Do<g ref="char:EOLhyphen"/>ctrine,
+which is neceſſary to be
+knowne to Salvation.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OD is an infinite and incompre<g ref="char:EOLhyphen"/>henſible
+Spirit, having his beeing
+of himſelfe, and all perfections
+in himſelfe, in the unitie of whoſe
+eſſence, wee are to acknowledge a Trinitie
+of perſons, <hi>viz.</hi> the Father, the Sonne, and
+the Holy Ghoſt, <bibl>
+                  <hi>Joh. 4. 24. 1 Kings</hi> 8. 17.
+1 <hi>Joh.</hi> 5. 7.</bibl>
+            </p>
+            <p>God in relation to man, as his creature, is
+to be acknowledged of us, as a moſt wiſe,
+powerfull, and glorious Creator, <bibl>
+                  <hi>Gen.</hi> 1.
+<hi>Pſal.</hi> 8.</bibl>
+            </p>
+            <p>God with reſpect to man as a ſinner, is
+to be acknowledged as a moſt wiſe, juſt,
+mercifull, and gracious Redeemer, <bibl>
+                  <hi>Exod.</hi> 34.
+6. Eſa. 43. 14.</bibl>
+            </p>
+            <p>Man before his fall, was a creature of ad<g ref="char:EOLhyphen"/>mirable
+excellencies, and ſingular privi<g ref="char:EOLhyphen"/>ledges,
+<pb facs="tcp:116554:4"/>
+but not priviledged from falling,
+<bibl>
+                  <hi>Gen. 1. 31. Col. 3. 10. Eccleſ</hi> 7. 29.</bibl>
+            </p>
+            <p>Man ſince the fall, is a creature extreame<g ref="char:EOLhyphen"/>ly
+miſerable, but yet ſtanding under a poſſi<g ref="char:EOLhyphen"/>bilitie
+of riſing, <bibl>
+                  <hi>Rom. 7. 24. Hoſea</hi> 13. 9. &amp; 14.</bibl>
+            </p>
+            <p>That helpe, which is provided for man,
+in order to his riſing, is laid upon one that
+is mightie, even Jeſus Chriſt, who is both
+God, and man, a perſon choſen of his Father
+to doe him ſervice, in working mans Salva<g ref="char:EOLhyphen"/>tion,
+and is for that purpoſe made unto us,
+wiſdome, righteouſneſſe, ſanctification, and
+redemption, <bibl>
+                  <hi>Pſal. 89. 19. Eſa. 9. 6. 7. Eſa.</hi> 42.
+1. 1 <hi>Cor.</hi> 1<g ref="char:punc">▪</g> 30.</bibl>
+            </p>
+            <p>Jeſus Chriſt, and all bleſſings in, and
+through him, are ours by beleeving, where<g ref="char:EOLhyphen"/>in,
+firſt, there is a looking to Jeſus; ſecondly,
+a leaning upon him; thirdly, an imbracing of
+him; fourthly, a kiſſing of him; fiftly, a feed<g ref="char:EOLhyphen"/>ing
+upon him; ſixtly, a taking hold of him;
+ſeventhly, a receiving of him; eightly a com<g ref="char:EOLhyphen"/>ming
+to him: all which are to be ſpiritually
+underſtood, and ſpiritually to be performed,
+<bibl>
+                  <hi>Epheſ. 3. 17. Heb. 12. 2. Cant. 1. Heb.</hi> 11. 13.
+<hi>Pſal. 2. 12. Joh. 6. Eſa. 27. 5. Joh.</hi> 1. 12.</bibl>
+            </p>
+            <p>The ſoule is brought to beleeve, and ſo
+to the fellowſhip of Chriſt, and bleſſings
+<pb facs="tcp:116554:5"/>
+through him, by the hearing of the Goſpel,
+which is a doctrine of free grace, declaring
+unto us that God is in Chriſt, reconciling the
+world unto himſelfe, <bibl>
+                  <hi>Joh. 6. Rom.</hi> 10. 14, 15.
+17. 2 <hi>Cor.</hi> 5. 19.</bibl>
+            </p>
+            <p>That Goſpel, which is the grace of God
+bringing ſalvation to ſuch as beleeve, doth
+likewiſe teach men to deny ungodlineſſe, and
+worldly luſts, and to live oberly, righteouſ<g ref="char:EOLhyphen"/>ly,
+and godly in this preſent world, <bibl>
+                  <hi>Tit.</hi> 2.
+11, 12.</bibl>
+            </p>
+            <p>Such as doe beleeve, and ſhew forth their
+beleeving, by walking in newneſſe of life,
+are juſtified from ſinne, paſſed from death to
+life, and ſhall have after death a reſurrection
+to eternall glory, <bibl>
+                  <hi>Rom. 5. 1. Joh. 6. 36. Joh.</hi>
+11. 26. <hi>Joh.</hi> 6. 44.</bibl>
+            </p>
+            <p>Such as continue in ſinne, neglecting Chriſt,
+and Goſpel mercies, ſhew themſelves to be
+children of wrath, in bondage to Satan, and
+ſo continuing, ſhall after death be raiſed up
+to eternall ſhame, <bibl>
+                  <hi>Joh. 3. 36. Epheſ. 2. 2 Tim.</hi>
+2. <hi>ult.</hi>
+               </bibl>
+            </p>
+            <p>It is mens dutie, not to take matters delive<g ref="char:EOLhyphen"/>red
+unto them, upon truſt, but to ſearch the
+Scriptures, whether the things which they
+reade, or heare be ſo, <bibl>
+                  <hi>Joh.</hi> 5. 39.</bibl>
+            </p>
+         </div>
+         <div type="catechism">
+            <pb facs="tcp:116554:5"/>
+            <head>The two COVENANTS
+from Sinai, and Sion.</head>
+            <div type="question">
+               <head>Queſtion.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N what way hath it ſeemed good to the
+wiſdome of God, to deale with the
+ſonnes of men in order to his glory, and
+their happineſſe?</p>
+            </div>
+            <div type="answer">
+               <head>Anſwer.</head>
+               <p>Gods dealing with them both before, and
+ſince the fall, hath been ordered out in a
+way of Covenanting, <bibl>
+                     <hi>Gen. 2. 16. Jere.</hi> 31, 32.
+<hi>Ezek.</hi> 20. 37.</bibl>
+               </p>
+            </div>
+            <div type="questions">
+               <p>
+                  <hi>Q.</hi> What Covenant did God make with man
+before his fall?</p>
+               <p>
+                  <hi>A.</hi> A Covenant of Workes, the ſumme
+whereof is contained in the ten Commande<g ref="char:EOLhyphen"/>ments,
+<bibl>
+                     <hi>Levit. 18. 5. Gal.</hi> 3. 12.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What did this Covenant binde man unto?</p>
+               <p>
+                  <hi>A.</hi> To the performance of perfect obedi<g ref="char:EOLhyphen"/>ence,
+and that perpetually, <bibl>
+                     <hi>Deut.</hi> 27. 26.
+<hi>Gal.</hi> 3. 10.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:6"/>
+                  <hi>Q.</hi> Had man abilitie to performe what this
+Covenant bound him to?</p>
+               <p>
+                  <hi>A.</hi> Sufficient abilitie there was given to
+him, to performe whatſoever the Law re<g ref="char:EOLhyphen"/>quired,
+<bibl>
+                     <hi>Eccleſ.</hi> 7. 29.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What did that Covenant leade man to ex<g ref="char:EOLhyphen"/>pect
+from God, as the reward of his obedience?</p>
+               <p>
+                  <hi>A.</hi> A bleſſed life, in conſtant fellowſhip
+with him, and ſweet fruition of him. <hi>Gal.</hi> 3. 12.</p>
+               <p>
+                  <hi>Q.</hi> Was man ſtedfaſt in this Covenant?</p>
+               <p>
+                  <hi>A.</hi> Nothing leſſe, for he diſobeyed Gods
+expreſſe command in eating the forbidden
+fruit, and ſo became guiltie of breach of Co<g ref="char:EOLhyphen"/>venant,
+<bibl>
+                     <hi>Gen. 3. Eccleſ.</hi> 7. 29.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What condition hath man now brought
+himſelfe into, through this breach of Covenant?</p>
+               <p>
+                  <hi>A.</hi> Into a moſt miſerable condition of ſin<g ref="char:EOLhyphen"/>fulneſſe,
+impotency, guilt, and wrath, and
+lyes open to the curſe of the Law, and eter<g ref="char:EOLhyphen"/>nall
+condemnation, <bibl>
+                     <hi>Joh</hi> 15. 16.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is there no helpe for man now lying under
+this woefull condition?</p>
+               <p>
+                  <hi>A.</hi> No helpe at all by the Covenant he
+hath broken, which doth ſtrictly require, ei<g ref="char:EOLhyphen"/>ther
+obedience, or ſatisfaction, in caſe of
+tranſgreſſion, without giving any power, or
+ſhewing any mercy, <hi>Gal.</hi> 3<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:6"/>
+                  <hi>Q.</hi> Hath man no power to helpe himſelfe?</p>
+               <p>
+                  <hi>A.</hi> He is altogether without ſtrength, ei<g ref="char:EOLhyphen"/>ther
+to performe obedience, or make ſatisfa<g ref="char:EOLhyphen"/>ction,
+either to repaire the wrong he hath
+done to God, or the loſſe he hath ſuſtained
+from himſelfe, <bibl>2 <hi>Cor.</hi> 3. 5.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Is man then a creature altogether hope<g ref="char:EOLhyphen"/>leſſe?</p>
+               <p>
+                  <hi>A.</hi> Not ſo, for God hath proclaimed his
+Name to be mercifull, and gracious, <bibl>
+                     <hi>Exod.</hi>
+34. 6, 7.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> How hath God ſhewed himſelfe ſo to be in
+order to mans recovery?</p>
+               <p>
+                  <hi>A.</hi> By revealing a new Covenant, and ſo
+bringing in a better and more bleſſed hope,
+<bibl>
+                     <hi>Jere. 31. 32. Heb.</hi> 8.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is that Covenant?</p>
+               <p>
+                  <hi>A.</hi> A Covenant of free grace, and recon<g ref="char:EOLhyphen"/>ciliation
+between himſelfe, and poore ſinners,
+before alienated from him, and enemies to
+him, <bibl>2 <hi>Cor. 5. 18, 19. Col.</hi> 1.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> 
+                  <g ref="char:V">Ʋ</g>pon what foundation is this Covenant
+layd?</p>
+               <p>
+                  <hi>A.</hi> Not upon any abilitie in man, but up<g ref="char:EOLhyphen"/>on
+Jeſus Chriſt, and his ſufficiency, upon
+whom the Covenant is founded, and in whoſe
+bloud it is eſtabliſhed, <bibl>
+                     <hi>Eſa. 28. 16. 1 Pet.</hi> 2. 6.
+<hi>Mat. 26. 28. Luk.</hi> 22. 20.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:7"/>
+                  <hi>Q.</hi> Why doe you call it a new Covenant?</p>
+               <p>
+                  <hi>A.</hi> In two reſpects: firſt, in reſpect of the
+Covenant of works, under which man was at
+firſt planted: Secondly, In reſpect of that
+difference, which is between the gracious
+adminiſtrations under the old Teſtament,
+and thoſe now undew the New.</p>
+               <p>
+                  <hi>Q.</hi> Wherein doth that difference of admini<g ref="char:EOLhyphen"/>ſtrations
+conſiſt?</p>
+               <p>
+                  <hi>A.</hi> In ſundry particulars, whereof we will
+mention but two, or three: Firſt, under the
+old Teſtament, the Covenant was admini<g ref="char:EOLhyphen"/>ſtred
+with a more rigorous exacting of obedi<g ref="char:EOLhyphen"/>ence
+to the morall Law, under the Goſpel
+men are drawne to their dutie with more
+ſweetneſſe: Secondly, Chriſt was then held
+forth as one that was to come, but now as be<g ref="char:EOLhyphen"/>ing
+alreadie come: Thirdly, Chriſt, and the
+bleſſing of the Covenant through him, were
+then diſpenſed under carnall ordinances, and
+cloudy Ceremonies, whereas now the diſ<g ref="char:EOLhyphen"/>penſations
+are more cleare, and ſpirituall, ſo
+that wee may with open face behold, as in a
+glaſſe, the glory of God in Jeſus Chriſt, <bibl>
+                     <hi>Deut.</hi>
+8. 1. <hi>&amp; 27. 26. Mat. 11. 28, 29. Rom.</hi> 12. 1.
+<hi>Mal. 3. 1, 2. Heb. 9. 10. 1 Pet. 2. 9. 2 Cor.</hi>
+3. 18.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:7"/>
+                  <hi>Q.</hi> Was it not the ſame ſalvation, which was
+then diſpenſed, that now the Goſpel brings, not<g ref="char:EOLhyphen"/>withſtanding
+the difference of adminiſtration?</p>
+               <p>
+                  <hi>A.</hi> Vndoubtedly it was, Chriſt being the
+ſame yeſterday, and to day, and for ever:
+ſecondly, It being the ſame Spirit, and the
+ſame faith, by which beleevers then were,
+and now are made partakers of him, and of
+all ſpirituall bleſſings in, and thorough him,
+<bibl>
+                     <hi>Heb. 13. 8. 2 Cor. 4. 13. Heb. 11. 1 Cor.</hi> 10.
+3, 4.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> When did this Covenant take place?</p>
+               <p>
+                  <hi>A.</hi> Immediately after the fall, and it was
+ſignified by that promiſe made to our firſt pa<g ref="char:EOLhyphen"/>rents,
+the ſeed of the woman ſhall breake the
+Serpents head, being afterward confirmed to
+<hi>Abraham,</hi> and to his ſeed, <bibl>
+                     <hi>Gen. 3. 15. Gen.</hi> 15.
+1. <hi>&amp;</hi> 17. 1, 2.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why then was the Law publiſhed after, up<g ref="char:EOLhyphen"/>on
+mount Sinai?</p>
+               <p>
+                  <hi>A.</hi> Not as the ſtanding Covenant, nor to
+diſanull the Covenant made and confirmed be<g ref="char:EOLhyphen"/>fore
+of God in Chriſt, but it was for mercifull
+purpoſes, and the more to indeare the pro<g ref="char:EOLhyphen"/>miſe
+of Grace to the heires thereof, <bibl>
+                     <hi>Gal.</hi> 3.
+17, 18, 19.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the matter of this new Cove<g ref="char:EOLhyphen"/>nant
+under the Goſpel?</p>
+               <p>
+                  <pb facs="tcp:116554:8"/>
+                  <hi>A.</hi> Sure mercies, and ſweet promiſes,
+which are all in Chriſt, yea, and in him A<g ref="char:EOLhyphen"/>men,
+<bibl>
+                     <hi>Eſa. 55. 3. 2 Cor.</hi> 1. 20.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are thoſe promiſes, and the mercies
+conveyed by them?</p>
+               <p>
+                  <hi>A.</hi> That God will give a new heart, a heart
+to know him, that he will write his law with<g ref="char:EOLhyphen"/>in
+us, put his feare into us, cauſe us to walke
+in his ſtatutes, forgive our iniquities, cleanſe
+us from our filthineſſe, be our God, and make
+us his people, <bibl>
+                     <hi>Ezek. 36. Jere.</hi> 31.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is required of ſuch as are taken into
+this Covenant?</p>
+               <p>
+                  <hi>A.</hi> Nothing is required of them, but what
+is given to them; It is required that men be<g ref="char:EOLhyphen"/>leeve,
+and repent, but it is freely given to
+them <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>; Mans dutie is the matter of
+promiſe, as well as Gods mercy, <bibl>1 <hi>Cor.</hi> 2. 12.
+<hi>Epheſ 2. 8. Phil. 1. 29. Act.</hi> 5. 31.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> How then are men to deale with ſuch pre<g ref="char:EOLhyphen"/>cepts
+as require, that they beleeve, repent, and turne
+to God?</p>
+               <p>
+                  <hi>A.</hi> They are not to ſeeke ſtrength from
+themſelves, but to ſearch into the Covenant,
+and ſee what they can finde in the promiſe,
+and ſo turne the promiſe into prayer. <hi>The
+Appendix fully proves this.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:8"/>
+                  <hi>Q.</hi> How will it ſtand with the juſtice of God
+ſo highly offended, and requiring ſatisfaction, to
+make ſuch a Covenant of grace and mercy?</p>
+               <p>
+                  <hi>A.</hi> Wee are to conſider this Covenant in
+a reference of it to Jeſus Chriſt, as Mediator
+thereof, undertaking to ſatisfie Gods ſtricteſt
+juſtice, and to eſtate man in his richeſt mer<g ref="char:EOLhyphen"/>cy,
+in regard of whom, as alſo of Gods free
+donation, it is a Teſtament, confirmed by the
+death of the Teſtator, <bibl>
+                     <hi>Heb. 12. 22, 23. Heb.</hi> 10.
+<hi>Mat. 26. Heb.</hi> 8. 6.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who is this Jeſus Chriſt?</p>
+               <p>
+                  <hi>A.</hi> The man, Gods-fellow, the Sonne of
+the Father, but found in faſhion as a man, in
+which eſtate he humbled himſelfe, and be<g ref="char:EOLhyphen"/>came
+obedient to the death, even to the death
+of the Croſſe, <bibl>
+                     <hi>Zach. 13. 7. Phil.</hi> 2.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What followed upon his humbling him<g ref="char:EOLhyphen"/>ſelfe,
+and being obedient to the death of the Croſſe?</p>
+               <p>
+                  <hi>A.</hi> His glorious exaltation, which is to be
+conſidered in his reſurrection, aſcenſion, and
+ſitting at Gods right hand, <bibl>
+                     <hi>Rom.</hi> 8. 34, 35.
+1 <hi>Cor.</hi> 15, 11.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What did be ingage himſelfe to, as Media<g ref="char:EOLhyphen"/>tor
+of this Covenant?</p>
+               <p>
+                  <hi>A.</hi> He ingaged himſelfe to a three-fold of<g ref="char:EOLhyphen"/>fice,
+Propheticall, Prieſtly, and Kingly, <bibl>
+                     <hi>Act.</hi> 7.
+<hi>Pſal.</hi> 110.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:9"/>
+                  <hi>Q.</hi> What belongs to him to doe as a Prophet?</p>
+               <p>
+                  <hi>A.</hi> To reveale and make knowne the Co<g ref="char:EOLhyphen"/>venant,
+therefore is he called the Angel and
+Meſſenger of the Covenant, <bibl>
+                     <hi>Epheſ.</hi> 2. 17.
+<hi>Mal.</hi> 3. 1.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What was his buſineſſe as a Prieſt?</p>
+               <p>
+                  <hi>A.</hi> To make his Soule an offering for ſin,
+and by the ſacrifice of himſelfe to God, to me<g ref="char:EOLhyphen"/>rit
+for us, and make ſure unto us, all the bleſ<g ref="char:EOLhyphen"/>ſings
+of the Covenant, <bibl>
+                     <hi>Eſa. 53. Heb.</hi> 10.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What belongs to him to doe as a King?</p>
+               <p>
+                  <hi>A.</hi> To triumph over all guiltineſſe, by the
+application of his bloud, to the conſciences of
+his people, and to ſubdue all iniquitie, by the
+efficacy of his grace, and ſo to erect and ad<g ref="char:EOLhyphen"/>miniſter
+a Kingdome in their hearts, ſtanding
+in righteouſneſſe, peace, and joy in the Holy
+Ghoſt, <bibl>
+                     <hi>Heb. 9. &amp; 10. 18. Eſa. 52. Mich.</hi> 7.
+15. <hi>Rom.</hi> 14. 17.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What proviſion is there made for the ap<g ref="char:EOLhyphen"/>plication
+of this Covenant to the ſonnes of men?</p>
+               <p>
+                  <hi>A.</hi> There is mercifull proviſion of means,
+and that of two ſorts, firſt, outward, ſecondly,
+inward.</p>
+               <p>
+                  <hi>Q.</hi> What are the outward means?</p>
+               <p>
+                  <hi>A.</hi> Firſt, The miniſtration of the Word,
+ſecondly, The holy Sacraments, <bibl>2 <hi>Cor.</hi> 5.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is done to the purpoſe of applying
+<pb facs="tcp:116554:9"/>
+this Covenant in the miniſtery?</p>
+               <p>
+                  <hi>A.</hi> The name of God, and of the Lord Je<g ref="char:EOLhyphen"/>ſus,
+is proclaimed<g ref="char:punc">▪</g> and as an oyntment pow<g ref="char:EOLhyphen"/>red
+forth, Chriſt with his bloud, and merits,
+and all the benefits of his death, are openly
+ſhewed, and ſignification made, that whoſoe<g ref="char:EOLhyphen"/>ver
+will, may come and drinke of the wa<g ref="char:EOLhyphen"/>ters
+of life freely, <bibl>
+                     <hi>Exod. 34. Cant. 1. Joh.</hi> 3.
+14. <hi>Eſa. 55. 1. Rev.</hi> 22.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the Sacraments that belong to
+this Covenant?</p>
+               <p>
+                  <hi>A.</hi> They are two, Baptiſme, and the Lords
+Supper, wherein there are viſible Elements,
+of Water in the one, and Bread and Wine in
+the other; all Sacramentally holding forth
+Chriſt, and ſerving to promote the applicati<g ref="char:EOLhyphen"/>on
+of him, and all ſpirituall mercies through
+him, <bibl>
+                     <hi>Mat. 28. Mat.</hi> 26.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doe theſe Sacraments eſpecially hold
+forth concerning Chriſt?</p>
+               <p>
+                  <hi>A.</hi> His ſacrifice and death, and ſo they hold
+proportion with the Goſpel, which is a do<g ref="char:EOLhyphen"/>ctrine
+concerning Chriſt, and him crucified,
+<bibl>
+                     <hi>Rom. 6. 3. 1 Cor. 11. 26. 1 Cor.</hi> 1. 2.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> How doe they ſerve, to promote the applica<g ref="char:EOLhyphen"/>tion
+of Chriſt, and ſpirituall bleſſings by him?</p>
+               <p>
+                  <hi>A.</hi> They ſerve hereunto not onely by way
+of ſignification, but alſo by way of obſignati<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:116554:10"/>
+and ſo are to be conſidered as Seales of
+the Covenant, <bibl>
+                     <hi>Rom.</hi> 4. 11.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is ſignified and ſealed in Baptiſme?</p>
+               <p>
+                  <hi>A.</hi> The death of Jeſus Chriſt, our union
+with him, and intereſt in all the benefits by
+him, particularly, remiſſion of ſinnes, and
+ſanctification, <bibl>
+                     <hi>Rom. 6. 4. Acts</hi> 2. 38.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is ſignified, and ſealed in the Lords
+Supper?</p>
+               <p>
+                  <hi>A.</hi> Our continuance in the fellowſhip of
+Chriſt, our living upon him, growing and in<g ref="char:EOLhyphen"/>creaſing
+in him, who as he became a ſacrifice
+to ſatisfie for ſinne, ſo is he become ſpirituall
+meate, for the nouriſhment of our ſoules,
+<bibl>
+                     <hi>Titus 2. 5. Epheſ. 5. 2. John</hi> 6. 55.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Doe not the Sacraments ſerve to promote
+the obedience that is to be performed under the Co<g ref="char:EOLhyphen"/>venant,
+as well as the application of the mercies
+thereof?</p>
+               <p>
+                  <hi>A.</hi> They ſerve ſtrongly to both purpoſes,
+for as the application of the mercies is fur<g ref="char:EOLhyphen"/>thered
+by way of ſignification, and obſigna<g ref="char:EOLhyphen"/>tion,
+ſo is the performance of dutie furthered
+by way of profeſſion and obligation, <bibl>
+                     <hi>Rom.</hi> 6.
+23. <hi>Col.</hi> 3. 2, 3.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doe we make profeſſion of, and binde
+our ſelves unto in Baptiſme?</p>
+               <p>
+                  <hi>A.</hi> Wee profeſſe our ſelves to be ſuch as
+<pb facs="tcp:116554:10"/>
+belong to Chriſt, beare his name, have fellow<g ref="char:EOLhyphen"/>ſhip
+with him in his death, and reſurrection,
+and binde our ſelves to walke ſutably her un<g ref="char:EOLhyphen"/>to,
+in dying to ſinne, and riſing to newneſſe of
+life, <bibl>
+                     <hi>Mat. 28. 19. Coloſ.</hi> 2. 12.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What doe wee make profeſſion of, and binde
+our ſelves unto in the Lords Supper?</p>
+               <p>
+                  <hi>A.</hi> Wee profeſſe our continuance in that
+holy fellowſhip, and binde our ſelves to walk
+worthy of it, denying to have any fellowſhip
+in the unfruitfull workes of darkneſſe, <bibl>1
+<hi>Cor.</hi> 10. 16.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the inward means of applying
+this Covenant?</p>
+               <p>
+                  <hi>A.</hi> Two; The one principall, the other
+inſtrumentall.</p>
+               <p>
+                  <hi>Q.</hi> What is the principall?</p>
+               <p>
+                  <hi>A.</hi> The Spirit of the Lord Jeſus Chriſt,
+which is ſent into the hearts of ſuch as are the
+children of the Covenant, and heires of pro<g ref="char:EOLhyphen"/>miſe,
+to convince them of their owne ſinful<g ref="char:EOLhyphen"/>neſſe,
+and of Gods righteouſneſſe, making
+them willing to ſubmit to it, and able to cloſe
+with it, <bibl>
+                     <hi>Gal. 4. 6. Joh. 16. 8, 9. Pſal.</hi> 110. 13.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the inſtrument all means of apply<g ref="char:EOLhyphen"/>ing
+this Covenant?</p>
+               <p>
+                  <hi>A.</hi> Faith, which is the gift of God, and
+therefore given, that the ſoule may be made
+<pb facs="tcp:116554:11"/>
+able, to take hold of the Covenant, and be
+actually poſſeſſed of the bleſſings of it, to ju<g ref="char:EOLhyphen"/>ſtification,
+and life, <bibl>
+                     <hi>Epheſ. 2. 8. Acts</hi> 13. 28.
+<hi>&amp; 15. 11. Joh.</hi> 1. 12.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are men required to beleeve, that they
+may be made partakers of Chriſt, and the bleſſings
+of the Covenant?</p>
+               <p>
+                  <hi>A.</hi> They are to beleeve, that Chriſt came
+into the world to ſave ſinners, and ſuch as are
+loſt: and perceiving themſelves to be ſuch,
+to looke up unto him, and to relie upon him
+for ſalvation, <bibl>1 <hi>Tim. 1. 15. Eſa.</hi> 45. 22.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Are not men bound to beleeve, that Chriſt
+died for them in particular?</p>
+               <p>
+                  <hi>A.</hi> They are bound to labour after ſuch a
+particular perſwaſion, but they are juſtified
+by a faith of adherence, although they have
+not attained unto the faith of evidence and aſ<g ref="char:EOLhyphen"/>ſurance,
+<bibl>
+                     <hi>Heb. 6. 11. Mat.</hi> 15. 1.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the chiefeſt end, tbat God aimes
+at in making this Covenant, and admitting ſin<g ref="char:EOLhyphen"/>ners
+into it?</p>
+               <p>
+                  <hi>A.</hi> The praiſe of the glory of his grace,
+and that Jeſus Chriſt may in all things have
+the preheminence, <bibl>
+                     <hi>Epheſ. 1. 6. 12. Col.</hi> 1. 18.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> How is this end attained?</p>
+               <p>
+                  <hi>A.</hi> By Gods enabling men to beleeve, and
+ſo to ſubmit to his righteouſneſſe in Jeſus
+<pb facs="tcp:116554:11"/>
+Chriſt, which beleeving as it is the inſtru<g ref="char:EOLhyphen"/>ment
+of applying the Covenant, ſo is it the
+maine and principall part of that obedience
+which is required, and performed under this
+Covenant, <bibl>
+                     <hi>Rom. 10. 3, 4. Rom.</hi> 16 26.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Doth not love to God, and our neighbour,
+belong to that obedience, which is to be performed
+under the new Covenant?</p>
+               <p>
+                  <hi>A.</hi> Vndoubtedly it doth: But then wee are
+to conſider, the commandement that binds to
+it, as a new Commandement, <bibl>1 <hi>Joh.</hi> 2. 7, 8.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> Why doe you call it a new commandement?</p>
+               <p>
+                  <hi>A.</hi> In two regards: firſt, In regard of the
+principles, in ſtrength of which it is perfor<g ref="char:EOLhyphen"/>med:
+ſecondly, In regard of the motives
+whereby it is urged.</p>
+               <p>
+                  <hi>Q</hi> What are the principles?</p>
+               <p>
+                  <hi>A.</hi> Firſt, The Spirit of grace, and adop<g ref="char:EOLhyphen"/>tion,
+which is therefore called a Spirit of
+love: Secondly, Juſtifying faith, <bibl>2 <hi>Tim.</hi> 1. 7.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What are the motives?</p>
+               <p>
+                  <hi>A.</hi> Gods loving us, and giving his Sonne
+to dye for us, his reconciling us unto himſelfe
+by the death of his Sonne, pardoning our ini<g ref="char:EOLhyphen"/>quities,
+pittying our weakneſſes; which prin<g ref="char:EOLhyphen"/>ciples,
+and motives, the Covenant of workes
+takes no notice of, <bibl>
+                     <hi>Epheſ. 4. 32. 1 Tim.</hi> 1. 5.
+1 <hi>Joh.</hi> 4. 11.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:12"/>
+                  <hi>Q.</hi> What is then the difference between that o<g ref="char:EOLhyphen"/>bedience,
+which the Law required, and that which
+is performed under the Goſpel?</p>
+               <p>
+                  <hi>A.</hi> The obedience under the Law was to
+be performed by ſuch abilities, as were natu<g ref="char:EOLhyphen"/>rall
+to man; the obedience under the Goſpel,
+is performed in ſtrength of a renewing Spirit,
+and a juſtifying faith; the former is made up
+of love, and acts of it, the latter is begun in
+faith, and compleated by love; the former
+was the matter of our righteouſneſſe to ju<g ref="char:EOLhyphen"/>ſtification,
+the latter, whether wee conſider
+faith, or love, is not our righteouſneſſe, as
+they are acts of dutie performed by us: The
+former was to be perfect, both in parts and
+degrees, or elſe not accepted; the latter if it
+be univerſall, and ſincere, is accepted with
+God, and that for the Covenants ſake, <bibl>
+                     <hi>Gal.</hi> 5.
+16. <hi>Rom. 13. Epheſ. 1. 15. Gal. 3. 12. Gal.</hi> 3. 10.
+<hi>Pſal.</hi> 119. 6.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What workings of heart will there be in
+thoſe, whom God doth bring into the bond of this
+Covenant?</p>
+               <p>
+                  <hi>A.</hi> Such as are actually admitted into this
+Covenant, will diſcover more or leſſe graci<g ref="char:EOLhyphen"/>ous
+workings towards God: Firſt, In a way
+of prayer, and ſupplication: Secondly, In a
+way of ſelfe-reſignation to God.</p>
+               <div type="explanation">
+                  <pb facs="tcp:116554:12"/>
+                  <head>Explaine the former.</head>
+                  <p>They will put the Covenant in ſuit, and
+what they finde to be matter of Gods pro<g ref="char:EOLhyphen"/>miſe,
+ſhall be matter of their prayer; If God
+promiſe to pardon iniquitie, they will pray,
+to have all iniquitie taken away; if God pro<g ref="char:EOLhyphen"/>miſe
+to give a new heart, they will pray, that
+God will create a cleane heart, and renew a
+right Spirit within them, <bibl>2 <hi>Sam.</hi> 7. 27. 2
+<hi>Chron. 20. 6. 9. Jere. 31. Hoſea 14. 2. Ezek.</hi> 36.
+<hi>Pſal.</hi> 51.</bibl>
+                  </p>
+               </div>
+               <div type="explanation">
+                  <head>
+                     <g ref="char:V">Ʋ</g>nfold the latter.</head>
+                  <p>The ſoule perceiving by the Covenant,
+which it hath imbraced, Gods bountifull
+giving himſelfe, and his Chriſt to it, gives it
+ſelfe backe againe to God, and comes to be
+in a covenanting frame, willing to be joyned
+to the Lord in an everlaſting Covenant, <bibl>2
+<hi>Cor. 8. 5. Jere.</hi> 50. 5.</bibl>
+                  </p>
+               </div>
+            </div>
+            <div type="questions">
+               <p>
+                  <hi>Q.</hi> Doth the Covenant of the Goſpel, make
+voyd the Law?</p>
+               <p>
+                  <hi>A.</hi> No, in no wiſe, the doctrine of faith,
+and free grace, doth contrarily eſtabliſh the
+Law, <bibl>
+                     <hi>Rom.</hi> 3. 31.</bibl>
+               </p>
+               <p>
+                  <pb facs="tcp:116554:13"/>
+But the Apoſtle ſaith, <hi>Wee are not now nnder
+the Law,</hi> 
+                  <bibl>Rom. 6. 14.</bibl>
+               </p>
+               <p>
+                  <hi>A.</hi> Wee are not ſo under it, as to ſtand
+or fall by it, in reſpect of our eternall eſtates,
+not under it ſo as to ſeek righteouſneſſe to ju<g ref="char:EOLhyphen"/>ſtification,
+by the workes of it, not under it ſo
+as to be ſubject to the curſe of it, in caſe of
+ſinfull ſwervings from it; But as it is a light,
+diſcovering what is good, and what is evill,
+withall commanding the one, forbidding the
+other, ſo are we under it, and ſtand bound to
+be ordered by it, <bibl>
+                     <hi>Acts 13. Gal. 3. 13. Rom.</hi> 7. 7.</bibl>
+               </p>
+               <p>
+                  <hi>Q.</hi> What proofe can yee give hereof?</p>
+               <p>
+                  <hi>A.</hi> The New Teſtament doth abundantly
+prove this, take onely one Text, <bibl>
+                     <hi>Epheſ.</hi> 6, 2,
+3.</bibl> where the Apoſtle doth urge the Law in
+the very letter of it: <hi>Honour thy father and thy
+mother; for this is the firſt Commandemetn with
+promiſe, that it may be well with thee, and that
+thou mayeſt live long on the earth.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What is the ſtate of ſuch as neglect this Co<g ref="char:EOLhyphen"/>venant
+which the Goſpel holds forth?</p>
+               <p>
+                  <hi>A.</hi> They ſhew hereby that they are for pre<g ref="char:EOLhyphen"/>ſent
+in a ſtate of damnation, they deſpiſe the
+riches of Gods goodneſſe, ſet light by the moſt
+precious bloud of the Lord Jeſus, they neglect
+the great ſalvation, and unleſſe they repent,
+they will moſt aſſuredly receive the greater
+<pb facs="tcp:116554:13"/>
+damnation, <bibl>
+                     <hi>Joh. 3. 18. Rom. 2. Heb.</hi> 2. 3.
+<hi>Mat.</hi> 10. 15.</bibl>
+               </p>
+            </div>
+         </div>
+         <div type="appendix">
+            <head>An APPENDIX, annexed
+hereunto, for further illuſtration
+of that which goeth before, con<g ref="char:EOLhyphen"/>cerning
+the uſe of the Covenant
+in a practicall way.</head>
+            <p>
+               <seg rend="decorInit">G</seg>ODS dealing with man, is ordered
+out in a way of covenanting, yet ſo
+as that the Covenant of the Go<g ref="char:EOLhyphen"/>ſpel,
+in reſpect of its outward ad<g ref="char:EOLhyphen"/>miniſtration,
+is ordered out with commands,
+charging man with his dutie. But then wee
+are ſo to conſider the dutie, as matter of a
+command, as that wee alſo acknowledge it
+to be the matter of promiſe, in the ſtrength
+whereof it is to be performed. And herein
+lyes a maine part of our ſpirituall wiſdome,
+when our dutie is required of us, not to <gap reason="illegible" resp="#TECH" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+abilitie in our ſelves, but to bring the precept
+to the promiſe, and to ſearch what there is in
+<pb facs="tcp:116554:14"/>
+the promiſe, and Covenant, as matter of free
+conveyance, anſwering to that which the pre<g ref="char:EOLhyphen"/>cept
+requires, and ſo to ſue out by prayer, the
+bleſſing of the promiſe, that wee may be ena<g ref="char:EOLhyphen"/>bled
+to performe the dutie of the precept.</p>
+            <p>
+               <hi>Precept.</hi> It is mans duty to beleeve, <bibl>
+                  <hi>Mark<g ref="char:punc">▪</g>
+                  </hi> 1. 15.</bibl>
+            </p>
+            <p>
+               <hi>Covenant.</hi> The Covenant holds forth belee<g ref="char:EOLhyphen"/>ving
+as a free gift, <bibl>
+                  <hi>Epheſ.</hi> 2. 8.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer ſues it out, <hi>Lord helpe my un<g ref="char:EOLhyphen"/>beliefe,</hi>
+               <bibl>Mark. 9. 24.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie to repent and turne
+to God, <bibl>
+                  <hi>Acts</hi> 17. 30.</bibl>
+            </p>
+            <p>
+               <hi>Covenant.</hi> The Covenant holds forth repen<g ref="char:EOLhyphen"/>tance,
+as the gift of God, <bibl>
+                  <hi>Acts</hi> 5. 31.
+2 <hi>Tim.</hi> 2. 25.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer ſues it out, <hi>Turne thou mee,
+and I ſhall be turned,</hi> 
+               <bibl>Jere. 31. 18.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is required of man, as a dutie, to
+make him a new heart, <bibl>
+                  <hi>Ezek.</hi> 16. 31.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe, to give a new
+heart, <bibl>
+                  <hi>Ezek.</hi> 36. 26.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer riſes up ſutably to that pro<g ref="char:EOLhyphen"/>miſe;
+<hi>Create in mee, a cleane heart, O God,
+and renew a right Spirit within mee,</hi> 
+               <bibl>Pſal.
+51. 10.</bibl>
+            </p>
+            <p>
+               <pb facs="tcp:116554:14"/>
+               <hi>Precept.</hi> It is mans dutie to love God, <bibl>
+                  <hi>Mat.</hi>
+22. 37.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods Covenant to circumciſe
+the heart to love him, <bibl>
+                  <hi>Deut.</hi> 30. 6.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer workes out in the ſtrength
+thereof, <hi>That God would direct the heart, to
+the love of him,</hi> 
+               <bibl>2 Theſ. 3. 5.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie to feare God, <bibl>
+                  <hi>Deut.</hi>
+10. 12.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe to put his feare
+into our hearts, <bibl>
+                  <hi>Jere.</hi> 32. 40.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer purſueth it, <hi>
+                  <g ref="char:V">Ʋ</g>nite my heart to
+feare thy Name,</hi> 
+               <bibl>Pſal. 86. 11.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie to waſh and be
+cleane, <bibl>
+                  <hi>Eſa.</hi> 1. 16.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe, to ſanctifie and
+cleanſe, <bibl>
+                  <hi>Ezek.</hi> 36. 25.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> It is the buſineſſe of prayer, to ſue
+out this promiſe, <hi>Waſh mee, and I ſhall be
+cleane,</hi> 
+               <bibl>Pſal. 51. 7.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie to draw neare to
+God, <bibl>
+                  <hi>James</hi> 4. 8.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Chriſts promiſe, to draw men
+unto him, <bibl>
+                  <hi>John</hi> 12. 32.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer riſeth up ſutably hereunto,
+<hi>Draw me, and we will run after thee,</hi> 
+               <bibl>Cant. 1. 4.</bibl>
+            </p>
+            <p>
+               <pb facs="tcp:116554:15"/>
+               <hi>Precept.</hi> It is mans dutie to walke in Gods
+Statutes, <bibl>
+                  <hi>Pſal.</hi> 119. 4.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe, to enable him ſo
+to doe, <bibl>
+                  <hi>Ezek.</hi> 36. 27.</bibl>
+            </p>
+            <p>Prayer. <hi>Prayer workes up accordingly;</hi> On
+that my wayes were directed to keepe thy Sta<g ref="char:EOLhyphen"/>tutes,
+<bibl>
+                  <hi>Pſal.</hi> 119. 5.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie to be ſtrong in the
+Lord, <bibl>
+                  <hi>Epheſ.</hi> 6. 10.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe, to make him
+ſtrong, <bibl>
+                  <hi>Pſal.</hi> 29. 11.</bibl>
+            </p>
+            <p>
+               <hi>Prayer.</hi> Prayer fetcheth ſtrength from him;
+<hi>Give thy ſtrength to thy ſervant,</hi> 
+               <bibl>Pſal. 86. 16.</bibl>
+            </p>
+            <p>
+               <hi>Precept.</hi> It is mans dutie, not to depart from
+God, <bibl>
+                  <hi>Heb.</hi> 3. 12.</bibl>
+            </p>
+            <p>
+               <hi>Promiſe.</hi> It is Gods promiſe to his people,
+that <hi>they ſhall not depart from him,</hi> Jere. 32.
+40.</p>
+            <p>Prayer. <hi>Prayer anſwers hereto;</hi> Oh let me not
+wander from thy Commandements, <hi>Pſ.</hi> 119. 10.</p>
+            <p>For thou, O Lord of hoſts, God of Iſrael, haſt
+revealed to thy ſervant, ſaying, I will build thee
+an houſe: therefore hath thy ſervant found in
+his heart to pray this prayer unto thee, <bibl>2 <hi>Sam.</hi>
+7. 27.</bibl>
+            </p>
+            <p>
+               <pb facs="tcp:116554:15"/>
+BEhold here yee children of the Covenant,
+and heires of promiſe, a new and living
+way, conſecrated by bloud, paved with pro<g ref="char:EOLhyphen"/>miſes;
+a way of ſtrength to the upright; where<g ref="char:EOLhyphen"/>in
+they may walke from ſtrength to ſtrength,
+till they appeare before God in <hi>Sion.</hi> Let no
+diſcouraging thoughts, concerning the diffi<g ref="char:EOLhyphen"/>cultie
+of the way, which is ſet before you, poſ<g ref="char:EOLhyphen"/>ſeſſe
+your hearts, ſo as to hinder your ready
+application to it, and cheerfull progreſſe in it.
+A yoke you are commanded to take upon
+you, but ſuch as is made moſt eaſie to beare,
+becauſe that God who layeth it upon you,
+hath covenanted to ſtrengthen, and ſupport
+you; <gap reason="illegible" resp="#TECH" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e who is righteous in commanding,
+is gracious in promiſing; be you ſtrong in be<g ref="char:EOLhyphen"/>leeving,
+and fervent in prayer, and your work
+will be your meate, your dutie your delight.
+I conclude all with the laſt words of the ſweet
+<hi>Pſalmiſt</hi> of <hi>Iſrael,</hi> the man who was rayſed
+up on high, and that by Gods free Covenant,
+who having had experience of his own frail<g ref="char:EOLhyphen"/>tie,
+and fore-apprehending the ſad changes
+that ſhould after come upon his houſe, yet
+<pb facs="tcp:116554:16"/>
+comforted himſelfe from the conſideration
+of the ſtabilitie of Gods gracious Covenant,
+<bibl>2 <hi>Sam. 23. 5.</hi>
+               </bibl> 
+               <hi>Although my houſe be not ſo with
+God</hi> (i. e.) as a morning without clouds, and
+of a cleare ſhine, <hi>yet hath he made with me an
+everlaſting Covenant, ordered in all things, and
+ſure: for this is all my ſalvation, and all my deſire,
+altbough he make it not to grow.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116554:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
